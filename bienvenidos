@@ -1,0 +1,98 @@
+< html >
+< cabeza >
+< title > Analizamos </ title >
+< link  href =" css/style.css " rel =" hoja de estilo " >
+</ cabeza >
+< cuerpo  bgcolor =" #949AAA " texto =" #04184F " id =" regre " >    
+
+</ tr >
+</ mesa > </ centro >
+< centro >
+< a  href =" index.html " > Inicio </ a > -
+< a  href =" mecatronica.html " > Mecatronica </ a > -
+< a  href =" importancia.html " > Importancia </ a > -
+< a  href =" analizamos.html " > Analizamos </ a > 
+< br > < br >
+      < centro > < h2 > ANALIZEMOS MECATRÓNICA </ h2 > </ centro >
+   
+  < centro >  < iframe  width =" 560 " height =" 315 " src =" https://www.youtube.com/embed/ArnycAkb7ss " title =" YouTube video player " frameborder =" 0 " allow =" acelerómetro; reproducción automática ; portapapeles-escribir; medios cifrados; giroscopio; imagen en imagen " allowfullscreen > </ iframe >   </ center >
+   
+</ centro >
+</ cuerpo > 
+</ html >
+
+< p > La Ingeniería Informática comparte El control Digital con La Ingeniería de Control y cerramos el círculo con la Ingeniera de Control que comparte el Control Electrónico con la Ingeniería Electrónica. </ h1 >
+
+< p > *Todo esto es lo que llamamos Ingeniería Mecatrónica. </ p >
+< p > *Aplicaciones de la Mecatrónica </ p >
+< p > *Entendiendo que la Mecatrónica abarca disciplinas muy amplias y complejas podemos decir que tiene muchos campos de aplicación. </ p >
+
+< p > De hecho, la Mecatrónica pretende ser esa disciplina o Ingeniería en la que los productos se fabrican teniendo en cuenta todas las ingenierías y no estando separados como tradicionalmente
+Su punto fuerte es la versatilidad para crear mejores productos, procesos o sistemas, La Mecatrónica no es un concepto nuevo o una ingeniera nueva, sino, la síntesis de ciertas áreas de ingeniería. </ p >
+
+
+<!DOCTYPEhtml >
+< html >
+< cabeza
+< título > </ título >
+</ cabeza >
+< cuerpo >
+< br >
+   
+   < centro > < a  href =" #audio " > < botón > ir al audio </ botón > </ a > < br >
+   < a  href =" #video " > < botón > ir al video </ botón > </ a > < br >
+   < a  href =" #tabla " > < button > ir a la tabla </ button > </ a > < br > </ center >
+      < centro > < h2 > ANALIZEMOS MECATRONICA PULSA DESCARGAR </ h2 > </ centro >
+      < centro > descargar </ centro >
+
+   < centro > < altura img   = 250px src =" img/ingenieria.jpg " > </ centro >  
+      
+      
+< centro > < h2 > ANALISEMOS MI OPINIÓN </ h2 > </ centro >
+   
+            < id de tabla  =" tabla " >
+                < cabeza >
+                    < tr >
+                        < th > Algunas de las asignaturas que </ th >  < th > contemplan la Ingeniería Mecatrónica </ th > 
+                    </ tr >
+                </ cabeza >
+
+                < tr >
+                    < td > Cálculo Diferencial </ td > < td > Integral y Multivariado </ td >
+                </ tr >
+                < tr >
+                    < td > Probabilidad </ td > < td > Estadística. </ td >
+                </ tr >
+                < tr >
+                    < td > Álgebra lineal </ td > < td > Estática </ td >
+                </ tr >
+                < tr >
+                    < td > La Máquina de Vapor </ td > < td > Dinámica </ td >
+                </ tr >
+                < tr >
+                    < td > Termodinámica </ td > < td > Mecánica de Materiales </ td >
+                </ tr >
+                < tr >
+                    < td > Mecánica de Fluidos. </ td > < td > Diseño por ordenador. </ td >
+                </ tr >
+                < tr >
+                    < td > Diseño de componentes mecánicos </ td > < td > Teoría de Control </ td >
+                </ tr >
+                < tr >
+                    < td > Automatización </ td > < td > Robótica Industrial </ td >
+                </ tr >
+            </ mesa >
+        </ div >
+</ mesa > </ centro >
+   < hora >
+   < centro > < h2 > PODCACAST MECATRÓNICA </ h2 > </ centro >
+   < centro > < audio  id =" audio " controles  src =" media/podcast_mecatronica.mp3 " > </ audio > </ centro >
+   < hora >
+< centro > < h2 > ANALISEMOS MI OPINIÓN </ h2 > </ centro >
+< centro > < iframe  width =" 560 " height =" 315 " src =" https://www.youtube.com/embed/OJQn3NJ8OPs?controls=0 " title =" YouTube video player " frameborder =" 0 " allow = " acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen " allowfullscreen > </ iframe > </ center >
+     < br > < br > < centro > < a  href =" #regre " > < botón > Ir arriba </ botón > </ centro > </ a >
+< centro > < a  target =" _BLANK " href =" https://issuu.com/rodrigoperezvillegas/docs/analisis_de_la_mecatronica_en_mexic_38b47385a644b7 " > < h2 > LINK ANALISEMOS MECATRONICA </ h2 > < </ a > </ centro >
+< br > Mandamos un mensaje via email a
+< a  href =" mailto:zaidg4060@gmail " > zaidg4060@gmail.com </ a >
+   </ cuerpo >
+   </ html >
